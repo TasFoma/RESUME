@@ -31,6 +31,7 @@ C# Junior developer
 ◦Программа верстки XML.
 ◦Программа генерации отчётов.
 
+![image](https://github.com/user-attachments/assets/6770b4b9-11aa-4250-9549-50866eb47f1d)
 
 
 Мои проекты
